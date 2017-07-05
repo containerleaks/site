@@ -16,7 +16,7 @@
     <p>
       {{ _('Posted on %(when)s in %(category)s',
            when=article.locale_date,
-           category='<a href="%s/%s">%s</a>'|format(SITEURL, article.category.url, article.category)|safe) }}
+           category='<a href="%s/%s">%s</a>'|format(SITEURL, article.category.url, article.category)|safe by AUTHOR) }}
 
       {% if 'post_stats' in PLUGINS %}
         &#8226; {{ article.stats['read_mins'] }} min read
