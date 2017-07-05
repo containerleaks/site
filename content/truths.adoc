@@ -1,0 +1,18 @@
+= The Truth is Out There
+:author: Container Jesus
+:date: 2016-10-20 11:32
+:modified: 2016-10-20 11:32
+:slug: setting-things-straight
+:summary: unbiased (maybe), unvarnished (probably), uncouth (definitely)
+:category: about
+:tags: truths,IT,containers
+
+== We are going to do our best to find it and bring it to light
+
+But it's increasingly hard to find. The (fools?) gold rush that is the ever-growing Linux container industry is so full of marketing double-speak that true information is hard to find.
+
+That is what we are going to do our best to broadcast from this base station.
+
+The truth about what conatiners are, what they can do, and how we can all take advantage of them. Some of the content will be home grown. Most of it will likely be found art. Sometimes we will have to knock down link:https://en.wikipedia.org/wiki/Fear,_uncertainty_and_doubt[FUD] when we see it.
+
+image::https://www.michaelhartzell.com/hubfs/images/the-truth-is-out-there.png[]
