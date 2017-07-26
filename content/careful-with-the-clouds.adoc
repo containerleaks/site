@@ -1,0 +1,14 @@
+= Not all clouds are equal
+:author: Container Jesus
+:date: 2016-10-20 11:32
+:modified: 2016-10-20 11:32
+:slug: not-all-clouds-are-equal
+:summary: A great analysis on just how easy it is to run afoul of the business of the cloud
+:category: cloud
+:tags: aws,kubernetes,containers
+
+Thanks to link::https://twitter.com/jeremyeder[Jeremy Eder] for this great analysis of just how easy it is for the business of the cloud to look like an application isn't doing its job.
+
+link::https://jeremyeder.com/2017/07/25/docker-operations-slowing-down-on-aws-this-time-its-not-dns/[Docker operations slowing down on AWS (this time it’s not DNS)]
+
+Stay woke.
