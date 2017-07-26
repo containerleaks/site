@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>containerleaks - about</title><link href="http://www.containerleaks.com/" rel="alternate"></link><link href="containerleaks.com/feeds/about.atom.xml" rel="self"></link><id>http://www.containerleaks.com/</id><updated>2017-07-05T19:35:20-04:00</updated><entry><title>The Truth is Out There</title><link href="http://www.containerleaks.com/setting-things-straight.html" rel="alternate"></link><published>2017-07-05T19:35:20-04:00</published><updated>2017-07-05T19:35:20-04:00</updated><author><name>Container Jesus</name></author><id>tag:www.containerleaks.com,2017-07-05:/setting-things-straight.html</id><summary type="html">unbiased (maybe), unvarnished (probably), uncouth (definitely)</summary><content type="html">&lt;div class="sect1"&gt;
+&lt;h2 id="_we_are_going_to_do_our_best_to_find_it_and_bring_it_to_light"&gt;We are going to do our best to find it and bring it to light&lt;/h2&gt;
+&lt;div class="sectionbody"&gt;
+&lt;div class="paragraph"&gt;&lt;p&gt;But it&amp;#8217;s increasingly hard to find. The (fools?) gold rush that is the ever-growing Linux container industry is so full of marketing double-speak that true information is hard to find.&lt;/p&gt;&lt;/div&gt;
+&lt;div class="paragraph"&gt;&lt;p&gt;That is what we are going to do our best to broadcast from this base station.&lt;/p&gt;&lt;/div&gt;
+&lt;div class="paragraph"&gt;&lt;p&gt;The truth about what conatiners are, what they can do, and how we can all take advantage of them. Some of the content will be home grown. Most of it will likely be found art. Sometimes we will have to knock down &lt;a href="https://en.wikipedia.org/wiki/Fear,_uncertainty_and_doubt"&gt;FUD&lt;/a&gt; when we see it.&lt;/p&gt;&lt;/div&gt;
+&lt;div class="imageblock"&gt;
+&lt;div class="content"&gt;
+&lt;img src="https://www.michaelhartzell.com/hubfs/images/the-truth-is-out-there.png" alt="https://www.michaelhartzell.com/hubfs/images/the-truth-is-out-there.png"&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content><category term="truths"></category><category term="IT"></category><category term="containers"></category></entry></feed>
