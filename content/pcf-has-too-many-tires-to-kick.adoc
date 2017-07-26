@@ -28,4 +28,4 @@ Why? To get started with PCF, you need _at least_ 30 systems available. FOR ITS 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 ++++
 
-@Pivotal, seriously. If it takes you 30 VMs to deploy your first container, how are you helping people deliver better software faster? 
+@Pivotal, seriously. If it takes you 30 VMs to deploy your first container, how are you helping people deliver better software faster? Hint: it doesn't.
