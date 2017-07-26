@@ -1,0 +1,31 @@
+= Pivotal CloudFoundry has more tires than any normal human should have to kick
+:author: Container Jesus
+:date: 2016-10-20 11:32
+:modified: 2016-10-20 11:32
+:slug: pcf-has-too-many-tires-to-kick
+:summary: One of the biggest and best brains in the container community tried to get started with PCF. for about 10 minutes.
+:category: containers
+:tags: pivotal cloudfoundry,pivotal,pcf,twitter,containers
+
+link::https://twitter.com/kelseyhightower[Kelsey Hightower], one of the best advocates and biggest brains in the container community, decided yesterday was the day to dig in to links::https://pivotal.io/platform[Pivotal Cloud Foundry].
+
+++++
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Today will be the day I finally kick the tires on Pivotal Cloud Foundry. <a href="https://t.co/q6z4Gm4Sue">https://t.co/q6z4Gm4Sue</a></p>&mdash; Kelsey Hightower (@kelseyhightower) <a href="https://twitter.com/kelseyhightower/status/889941795450245120">July 25, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+++++
+
+That desire lasted just under half an hour.
+
+++++
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Or not: Installing PCF requires at least 10 concurrent instances for testing and typically at least 30 for production deployments. <a href="https://t.co/hGwwAK2AtO">https://t.co/hGwwAK2AtO</a></p>&mdash; Kelsey Hightower (@kelseyhightower) <a href="https://twitter.com/kelseyhightower/status/889943191612346368">July 25, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+++++
+
+Why? To get started with PCF, you need _at least_ 30 systems available. FOR ITS CONTROL PLANE ALONE.
+
+++++
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">That&#39;s straight from the documentation. Why are 30 machines required for a production deployment? <a href="https://t.co/LtH7iSqx8k">https://t.co/LtH7iSqx8k</a></p>&mdash; Kelsey Hightower (@kelseyhightower) <a href="https://twitter.com/kelseyhightower/status/889943469325656064">July 25, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+++++
+
+@Pivotal, seriously. If it takes you 30 VMs to deploy your first container, how are you helping people deliver better software faster? 

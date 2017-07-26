@@ -11,6 +11,6 @@ Thanks to link::https://twitter.com/jeremyeder[Jeremy Eder] for this great analy
 
 link::https://jeremyeder.com/2017/07/25/docker-operations-slowing-down-on-aws-this-time-its-not-dns/[Docker operations slowing down on AWS (this time it’s not DNS)]
 
-image::https://jeremyedercom.files.wordpress.com/2017/07/eawdkec.png?w=323&h=416[]
+image::https://jeremyedercom.files.wordpress.com/2017/07/eawdkec.png?w=323&h=416[ ]
 
 Stay woke, people.
